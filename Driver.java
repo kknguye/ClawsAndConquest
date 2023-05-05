@@ -147,6 +147,7 @@ public class Driver {
          * While the user's input is not exit, continue to traverse the map. 
          * If there is an invalid selection, then print out "Invalid exit."
          * After you are done selecting, print out "Where would you like to go?" and get next exit
+         * Output to outputLog.txt after every player action
          */
 
         // Print "Litter Box" as the initial room
