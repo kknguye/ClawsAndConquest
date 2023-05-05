@@ -47,6 +47,9 @@ public class Item {
         this.used = true;
     }
 
+    /**
+     * Generates a string representation of the item using the name and description.
+     */
     public String toString() {
         return name + ": " + description + "\n";
     }
